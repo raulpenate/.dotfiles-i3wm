@@ -1,3 +1,6 @@
+# Instructions
+Uncomment the Polybar & Rofi theme that you want in the i3 config file, and the comment the one that you don't want.
+All the themes are based on https://github.com/adi1090x/polybar-themes
 
 # Themes
 
